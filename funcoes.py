@@ -1,7 +1,7 @@
 #funções
 
 def olaMundo():
-    print('Olá, mundo!')
+    print('Olá, mundo bom!')
 
 def olaPessoa(nome):
     print(f'Olá, {nome}')
