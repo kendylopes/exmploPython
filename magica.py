@@ -1,7 +1,7 @@
 import subprocess
 
 
-
+print("a magica vai começar")
 subprocess.run("cls", shell=True)
 
 print ("Olhe as cartas abaixo e escolha uma delas: ")
